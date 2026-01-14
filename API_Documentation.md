@@ -39,7 +39,7 @@ https://localhost:4000/
 
 ### Get single Tasks
 
-**URL:** `/api/task/get-single-task`  
+**URL:** `/api/task/get-single-task/:id`  
 **Method:** `GET`
 
 ---
