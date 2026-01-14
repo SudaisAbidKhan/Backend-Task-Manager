@@ -44,11 +44,12 @@ https://localhost:4000/
 
 ---
 
----
 ### Get single Task with filter
 
 **URL:** `/api/task/get-single-task-filter?status=pending`
 **Method:** `GET`
+
+---
 
 ### Update single Tasks
 
